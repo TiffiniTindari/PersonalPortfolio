@@ -1,8 +1,11 @@
 FREE CODE CAMP
+
 RESPONSIVE WEB DESIGN PROJECT
+
 PERSONAL PORTFOLIO
 
 OBJECTIVE
+    
     Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG
 
 USER STORIES
